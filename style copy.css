@@ -1,0 +1,23 @@
+.backgroundImage {
+background:url("http://www.billboard.com/files/media/taylor-swift-squad-2016-billboard-1548.jpg");
+color:pink;
+}
+
+h1 {
+  color: white;
+  font-family: Italic;
+}
+
+p {
+font-family: "Times New Roman", Times, serif;
+color: white;
+font-size: 30px;
+text-align: justify;
+}
+
+img {
+image-orientation: center;
+}
+body{
+  background-image: url("http://bgfons.com/upload/rainbow_texture679.jpg");
+}
